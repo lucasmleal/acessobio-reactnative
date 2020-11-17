@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1042890008109",
+    "firebase_url": "https://teste-react-native-f48c2.firebaseio.com",
+    "project_id": "teste-react-native-f48c2",
+    "storage_bucket": "teste-react-native-f48c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042890008109:android:2a1f71742ea227c99a3aa4",
+        "android_client_info": {
+          "package_name": "com.acessobioreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042890008109-fgr1ug2c59kmc075agap9r12lq4vdio8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwOTDyKO-WpvTlEei6e4ruzRb-W8x2HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042890008109-fgr1ug2c59kmc075agap9r12lq4vdio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042890008109:android:5b5ca606ba39dd5b9a3aa4",
+        "android_client_info": {
+          "package_name": "com.emojidictrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042890008109-fgr1ug2c59kmc075agap9r12lq4vdio8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwOTDyKO-WpvTlEei6e4ruzRb-W8x2HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042890008109-fgr1ug2c59kmc075agap9r12lq4vdio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
