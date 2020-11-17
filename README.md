@@ -1,6 +1,6 @@
 # AcessoBio Suporte React Native
 
-Esta biblioteca visa oferecer suporte a implementação das bridges entre a SDK mobile nativa para camada em JS no React Native.
+Esta biblioteca visa oferecer uma PoC para suporte a implementação das bridges entre a SDK mobile nativa para camada em JS no React Native.
 
 ## Autores
 
